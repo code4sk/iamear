@@ -1,0 +1,36 @@
+.EventList{
+    position: relative;
+    list-style: none;
+    max-height: 100%;
+    width: 30%;
+    min-width: 20%;
+    
+    overflow: auto;
+}
+
+.EventList::-webkit-scrollbar {
+  display: none;
+}
+.EventList {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+.EventListItem{
+    padding: 20px 20px;
+    border-bottom: 1px solid black;
+    cursor: pointer;
+    font-weight: 510;
+    background-color: #BFBFBF;
+    /* font-weight: 500; */
+    transition: all 0.1s;
+}
+
+.EventList li:last-child{
+    border: 0px solid black;
+}
+
+.EventListItem:hover{
+    background-color: #BFBFBF;
+    color: white;
+}

@@ -1,0 +1,19 @@
+.Header{
+    display: block;
+    position: relative;
+    width: 100%;
+    height: 10%;
+    background-color: #8C8C8C;
+    z-index: 15;
+}
+
+.Header span{
+    font-size: 18px;
+    font-weight: 600;
+    display: inline-block;
+    padding: 15px;
+    
+    letter-spacing: 1px;
+    color: #F2F2F2;
+    padding-left: 18px;
+}

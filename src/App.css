@@ -1,0 +1,18 @@
+*{
+  position: relative;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* font-family: Lato; */
+  font-family: Be Vietnam;
+}
+
+.App{
+  height: 100%;
+  position: relative;
+}
+
+body{
+   background: linear-gradient(rgba(255,255,255,.1), rgba(255,255,255,0)), url('./back.jpg');
+}
+

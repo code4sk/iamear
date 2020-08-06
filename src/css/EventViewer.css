@@ -1,0 +1,17 @@
+.EventViewer{
+    position: relative;
+    display: block;
+    width: 75%;
+    height: 550px;
+    border: 1px solid black;
+    margin: 100px auto;
+    border-radius: 2px;
+}
+
+
+.MainBox{
+    display: flex;
+    position: relative;
+    max-height: 90%;
+}
+
