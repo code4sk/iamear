@@ -14,6 +14,7 @@ run this application. This process may take some time.
 Finally, to run the application, run the command "npm start".
 This will open the application on localhost.
 
+I have add few screenshots of the app in BASE directory also.
 
 In case any thing does not work, can mail me at "kapoorshubham098@gmail.com"
 
